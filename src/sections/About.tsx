@@ -61,7 +61,7 @@ const About = () => {
             
             <div className="space-y-4 text-slate-600 leading-relaxed">
               <p>
-                APEX Security & Workforce was established to redefine UK manpower
+                APEX Manpower & Security was established to redefine UK manpower
                 and security personnel supply through operational excellence and
                 technological innovation.
               </p>
