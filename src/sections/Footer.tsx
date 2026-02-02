@@ -19,7 +19,7 @@ const Footer = () => {
               className="flex items-center gap-2 font-bold text-xl text-white mb-4"
             >
               <ShieldCheck className="w-7 h-7 text-amber-500" />
-              <span>APEX</span>
+              <span>APEX Manpower & Security</span>
             </button>
             <p className="text-slate-400 text-sm leading-relaxed">
               Building Reliable Manpower for Secure Operations
@@ -109,7 +109,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-slate-800">
           <p className="text-center text-slate-500 text-sm">
-            © 2025 Apex Manpower & Security. All rights reserved. | Registered
+            © 2026 Apex Manpower & Security. All rights reserved. | Registered
             in England & Wales | Compliant with UK Employment Agency Standards.
           </p>
         </div>
