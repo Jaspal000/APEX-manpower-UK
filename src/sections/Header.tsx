@@ -35,12 +35,12 @@ const Header = () => {
           {/* Logo */}
           <button
             onClick={() => scrollToSection('home')}
-            className={`flex items-center gap-2 font-bold text-lg lg:text-xl transition-colors ${
+            className={`flex items-center gap-2 font-bold transition-colors ${
               isScrolled ? 'text-slate-900' : 'text-white'
             }`}
           >
-            <ShieldCheck className="w-6 h-6 lg:w-7 lg:h-7 text-amber-500" />
-            <span className="text-sm sm:text-base lg:text-lg">APEX Manpower & Security</span>
+            <ShieldCheck className="w-6 h-6 lg:w-7 lg:h-7 text-amber-500 flex-shrink-0" />
+            <span className="text-base sm:text-lg lg:text-xl">APEX Manpower & Security</span>
           </button>
 
           {/* Desktop Navigation */}
@@ -111,7 +111,7 @@ const Header = () => {
           {/* Mobile Menu Button */}
           <button
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-            className={`lg:hidden p-2 rounded-lg transition-colors ${
+            className={`lg:hidden p-2 rounded-lg transition-colors flex-shrink-0 ${
               isScrolled ? 'text-slate-900 hover:bg-slate-100' : 'text-white hover:bg-white/10'
             }`}
             aria-label="Toggle menu"
