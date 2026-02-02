@@ -39,10 +39,10 @@ const Header = () => {
               isScrolled ? 'text-slate-900' : 'text-white'
             }`}
           >
-            <ShieldCheck className="w-6 h-6 lg:w-7 lg:h-7 text-amber-500" />
-            <span className="hidden sm:inline">APEX Manpower and Security</span>
-            <span className="sm:hidden">APEX Manpower</span>
-          </button>
+            <button className="flex items-center space-x-2">
+  <ShieldCheck className="w-6 h-6 lg:w-7 lg:h-7 text-amber-500" />
+  <span>APEX Manpower & Security</span>
+</button>
 
           {/* Desktop Navigation */}
           <div className="hidden lg:flex items-center gap-8">
