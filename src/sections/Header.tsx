@@ -40,7 +40,7 @@ const Header = () => {
             }`}
           >
             <ShieldCheck className="w-6 h-6 lg:w-7 lg:h-7 text-amber-500 flex-shrink-0" />
-            <span className="text-base sm:text-lg lg:text-xl">APEX Manpower & Security</span>
+            <span className="text-lg lg:text-xl">APEX Manpower & Security</span>
           </button>
 
           {/* Desktop Navigation */}
