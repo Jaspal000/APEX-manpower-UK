@@ -8,7 +8,7 @@ const services = [
     description:
       'Industrial and warehouse workforce supply for demanding operational environments requiring disciplined, safety-conscious personnel.',
     image:
-      'https://6966ae82ae1e0cd517350bf8.imgix.net/Untitled%20design%20(1).png',
+      'https://projetelegence.com/wp-content/uploads/2026/03/Manpower-Solutions-scaled.jpg',
     features: [
       'Warehouse operations & logistics support',
       'Production line staffing',
@@ -23,7 +23,7 @@ const services = [
     description:
       'Security staff deployment only. We provide trained, SIA-licensed security personnel for corporate and industrial environments.',
     image:
-      'https://6966ae82ae1e0cd517350bf8.imgix.net/2150321663.jpg',
+      'https://projetelegence.com/wp-content/uploads/2026/03/Security-personnel.jpg',
     features: [
       'SIA-licensed security officers',
       'Access control specialists',
