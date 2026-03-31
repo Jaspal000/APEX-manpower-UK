@@ -37,7 +37,7 @@ const About = () => {
           <div className="animate-on-scroll relative">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="https://6966ae82ae1e0cd517350bf8.imgix.net/GettyImages-660445456.jpg"
+                src="https://projetelegence.com/wp-content/uploads/2026/03/Manpower-Solutions-scaled.jpg"
                 alt="Professional team collaboration"
                 className="w-full h-[400px] lg:h-[500px] object-cover"
                 loading="lazy"
